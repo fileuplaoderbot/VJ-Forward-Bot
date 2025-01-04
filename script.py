@@ -40,7 +40,7 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Forward_MhRobot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Movie Horn](https://t.me/Movie_Horn)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/Movie_Horn)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Movie Horn](https://t.me/Movie_Horn)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
