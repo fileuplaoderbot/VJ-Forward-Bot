@@ -9,8 +9,8 @@ class Config:
     API_HASH = environ.get("API_HASH", "69ba051f43cff367bf569bd54eb277a7")
     BOT_TOKEN = environ.get("BOT_TOKEN", "") 
     BOT_SESSION = environ.get("BOT_SESSION", "vjbot") 
-    DATABASE_URI = environ.get("DATABASE_URI", "")
-    DATABASE_NAME = environ.get("DATABASE_NAME", "")
+    DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://forward:forward@forward.sejf9.mongodb.net/?retryWrites=true&w=majority&appName=forward")
+    DATABASE_NAME = environ.get("DATABASE_NAME", "forward")
     BOT_OWNER = int(environ.get("BOT_OWNER", "6069621485"))
 
 # Don't Remove Credit Tg - @VJ_Botz
